@@ -4,7 +4,7 @@
 
 Here I put all scripts for games separately
 
-  Universal script: 
+  ### Universal script: 
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/Universal_Script', true))()```
 
   ### Supported Games:
