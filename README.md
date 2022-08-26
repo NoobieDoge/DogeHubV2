@@ -8,6 +8,7 @@ Here I put all scripts for games separately
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/Universal_Script', true))()```
 
 
+
   Shindo Life:
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/ShindoLife', true))()```
 
