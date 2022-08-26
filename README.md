@@ -4,8 +4,10 @@
 
 Here I put all scripts for games separately
 
-  Universal script:  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/Universal_Script', true))()```
+  Universal script: 
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/Universal_Script', true))()```
 
+  ###Supported Games:
 
   Shindo Life:
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/ShindoLife', true))()```
