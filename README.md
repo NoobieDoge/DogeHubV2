@@ -18,3 +18,6 @@ Here I put all scripts for games separately
   Lumber Tycoon 2:
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/LumberTycoon2', true))()```
   
+  Zombie Attack:
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/ZombieAttack', true))()```
+  
