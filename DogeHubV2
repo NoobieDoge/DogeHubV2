@@ -5,7 +5,7 @@
 ██░▄██░██▄░▄██░██▄▀██░██▀░░██▀██░██░░██░██░░██░░░██▄██░░░▄██▀░
 ████▀░░░▀███▀░░░▀███▀░████░██░██░▀████▀░█████▀░░░░███░░░██████
 
-DogeHub v2.1.0.0
+DogeHub v2.1.1.0
 
 UI:
 NoobieDoge
@@ -22,8 +22,12 @@ NoobieDoge
 
 [ What's new? ]
 
-  [+] Script released
-  [+] Several bug fixes
+  [+] Zombie Attack script added auto upgrade guns function
+  [+] Shindo Inf Spins script major external UI design upgrade
+  [+] Added visual effects to Shindo Main GUI
+  [+] Added function to disable Auto Rank after achieved a certain amount of spins
+  [+] Some recodings to a few functions
+  [+] Minor bug fixes
   
 ]]--
 
