@@ -5,7 +5,7 @@
 ██░▄██░██▄░▄██░██▄▀██░██▀░░██▀██░██░░██░██░░██░░░██▄██░░░▄██▀░
 ████▀░░░▀███▀░░░▀███▀░████░██░██░▀████▀░█████▀░░░░███░░░██████
 
-DogeHub v2.1.1.1
+DogeHub v2.1.1.2
 
 UI:
 NoobieDoge
@@ -22,13 +22,12 @@ NoobieDoge
 
 [ What's new? ]
 
-  [+] Zombie Attack script added auto upgrade guns function
-  [+] Shindo Inf Spins script major external UI design upgrade
-  [+] Added visual effects to Shindo Main GUI
-  [+] Added function to disable Auto Rank after achieved a certain amount of spins
+  [+] Fixed Shindo auto collect scroll bug
+  [+] Scripts in all games got external UI design upgrade
+  [+] Added visual effects to all games GUI
+  [+] Added function to disable Auto Rank after achieved a certain amount of spins in My Home
   [+] Some recodings to a few functions
-  [+] Fixed a bug that inf jump won't activate after respawn
-  [+] Minor bug fixes
+  [+] Might have a shit ton of bugs cuz im too lazy to check 9000 rows of codes so plz tell me if found one
   
 ]]--
 
