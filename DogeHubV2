@@ -5,7 +5,7 @@
 ██░▄██░██▄░▄██░██▄▀██░██▀░░██▀██░██░░██░██░░██░░░██▄██░░░▄██▀░
 ████▀░░░▀███▀░░░▀███▀░████░██░██░▀████▀░█████▀░░░░███░░░██████
 
-DogeHub v2.1.1.0
+DogeHub v2.1.1.1
 
 UI:
 NoobieDoge
@@ -27,6 +27,7 @@ NoobieDoge
   [+] Added visual effects to Shindo Main GUI
   [+] Added function to disable Auto Rank after achieved a certain amount of spins
   [+] Some recodings to a few functions
+  [+] Fixed a bug that inf jump won't activate after respawn
   [+] Minor bug fixes
   
 ]]--
