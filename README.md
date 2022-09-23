@@ -21,3 +21,6 @@ Here I put all scripts for games separately
   Zombie Attack:
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/ZombieAttack', true))()```
   
+  Mega Fun Obby:
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/MegaFunObby', true))()```
+  
