@@ -25,7 +25,7 @@ NoobieDoge
 
 [+] My Home (Most OP function)
 
-[+] Locations Teleport
+[+] Location Teleports
 
 #### Build a Boat for Treasure
 [+] Auto Farm Gold
@@ -49,3 +49,8 @@ NoobieDoge
 [+] Auto Buy Crates
 
 [+] Auto Upgrade Guns
+
+#### Mega Fun Obby
+[+] Auto Farm Stages
+
+[+] Location Teleports
