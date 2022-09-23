@@ -47,3 +47,5 @@ NoobieDoge
 [+] Auto Do Quests
 
 [+] Auto Buy Crates
+
+[+] Auto Upgrade Guns
