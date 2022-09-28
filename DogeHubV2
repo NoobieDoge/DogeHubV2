@@ -5,7 +5,7 @@
 ██░▄██░██▄░▄██░██▄▀██░██▀░░██▀██░██░░██░██░░██░░░██▄██░░░▄██▀░
 ████▀░░░▀███▀░░░▀███▀░████░██░██░▀████▀░█████▀░░░░███░░░██████
 
-DogeHub v2.1.1.4
+DogeHub v2.1.1.5
 
 UI:
 NoobieDoge
@@ -19,14 +19,13 @@ NoobieDoge
   [+] Build a Boat for Treasure
   [+] Lumber Tycoon 2
   [+] Zombie Attack
+  [+] Mega Fun Obby
 
 [ What's new? ]
 
-  [+] Fixed Shindo auto collect scroll bug (fr)
-  [+] Shindo Scroll Snipe now shows whether the script ignore or collected the scroll
-  [+] Shindo Unbreakable Blocks now can turn on/off
-  [+] Added Mega Fun Obby script
-  [+] Might have a shit ton of bugs cuz im too lazy to check 9000 rows of codes so plz tell me if found one
+  [+] Fixed Shindo auto collect scroll bug (frfr)
+  [+] Shindo Inf Spins now filter out owned limiteds and fixed limited bloodlines and elements appear on same dropdown
+  [+] Shindo Inf Spins now can choose teleport to My Home or Main Menu after saving data
   
 ]]--
 
