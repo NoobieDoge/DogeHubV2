@@ -23,9 +23,10 @@ NoobieDoge
 
 [ What's new? ]
 
-  [+] Fixed Shindo auto collect scroll bug (frfr)
-  [+] Shindo Inf Spins now filter out owned limiteds and fixed limited bloodlines and elements appear on same dropdown
-  [+] Shindo Inf Spins now can choose teleport to My Home or Main Menu after saving data
+  [+] Added Gravity adjusting function to all scripts
+  [+] Shindo added inf spin configurations to other maps
+  [+] Shindo remove effects&particles fix
+  [+] A bunch of details fix
   
 ]]--
 
