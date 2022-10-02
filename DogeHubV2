@@ -5,7 +5,7 @@
 ██░▄██░██▄░▄██░██▄▀██░██▀░░██▀██░██░░██░██░░██░░░██▄██░░░▄██▀░
 ████▀░░░▀███▀░░░▀███▀░████░██░██░▀████▀░█████▀░░░░███░░░██████
 
-DogeHub v2.1.1.6
+DogeHub v2.1.1.7
 
 UI:
 NoobieDoge
@@ -24,6 +24,7 @@ NoobieDoge
 [ What's new? ]
 
   [+] Added Gravity adjusting function to all scripts
+  [+] Added Disable In Combat function to Shindo scripts
   [+] Shindo added inf spin configurations to other maps
   [+] Shindo remove effects&particles fix
   [+] A bunch of details fix
