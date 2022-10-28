@@ -11,6 +11,10 @@ NoobieDoge
 #### Shindo Life
 [+] Inf Spins
 
+[+] Inf RC
+
+[+] Auto Spin
+
 [+] Auto Farm Quests
 
 [+] Auto Farm Bosses
@@ -41,6 +45,8 @@ NoobieDoge
 
 #### Zombie Attack
 [+] Auto Farm Zombies
+
+[+] Auto Pick Up Powerups
 
 [+] Auto Buy Guns
 
