@@ -60,3 +60,11 @@ NoobieDoge
 [+] Auto Farm Stages
 
 [+] Location Teleports
+
+#### B: Rebirth
+[+] Auto Farm Levels
+
+[+] Auto Stats
+
+[+] Location Teleports
+
