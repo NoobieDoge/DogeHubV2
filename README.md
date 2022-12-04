@@ -66,5 +66,9 @@ NoobieDoge
 
 [+] Auto Stats
 
+[+] Auto Buy Skills
+
+[+] Auto Buy Crates
+
 [+] Location Teleports
 
