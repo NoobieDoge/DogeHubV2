@@ -11,8 +11,6 @@ NoobieDoge
 #### Shindo Life
 [+] Inf Spins
 
-[+] Inf RC
-
 [+] Auto Spin
 
 [+] Auto Farm Quests
