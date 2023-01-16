@@ -70,3 +70,12 @@ NoobieDoge
 
 [+] Location Teleports
 
+#### Alien Simulator
+[+] Auto Farm Money
+
+[+] Infinite Energy
+
+[+] Auto Stats
+
+[+] Auto Press Keys
+
