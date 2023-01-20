@@ -79,3 +79,13 @@ NoobieDoge
 
 [+] Auto Press Keys
 
+#### Stand Upright: Rebooted
+[+] Auto Farm Levels
+
+[+] Auto Farm Dungeons
+
+[+] Auto Farm Stands
+
+[+] Auto Collect Items
+
+[+] Location Teleports
