@@ -89,3 +89,15 @@ NoobieDoge
 [+] Auto Collect Items
 
 [+] Location Teleports
+
+#### Control Army
+[+] Auto Farm Levels
+
+[+] Auto Farm Items
+
+[+] Auto Farm Bosses
+
+[+] Auto Farm Raids
+
+[+] Location Teleports
+
