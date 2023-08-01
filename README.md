@@ -24,3 +24,15 @@ Here I put all scripts for games separately
   Mega Fun Obby:
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/MegaFunObby', true))()```
   
+  B: Rebirth:
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/B%3ARebirth', true))()```
+  
+  Alien Simulator:
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/AlienSimulator', true))()```
+  
+  Stand Upright: Rebooted:
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/StandUpright%3ARebooted', true))()```
+  
+  Control Army:
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/ControlArmy', true))()```
+  
