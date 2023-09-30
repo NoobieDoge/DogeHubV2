@@ -101,3 +101,11 @@ NoobieDoge
 
 [+] Location Teleports
 
+#### War Tycoon
+[+] Auto Collect Gold
+
+[+] Auto Build
+
+[+] Auto Rebirth
+
+[+] Location Teleports
