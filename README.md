@@ -44,3 +44,7 @@ Here I put all scripts for games separately
   Control Army:
   
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/ControlArmy', true))()```
+
+  War Tycoon:
+
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/WarTycoon', true))()```
