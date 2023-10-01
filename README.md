@@ -106,6 +106,10 @@ NoobieDoge
 
 [+] Auto Build
 
+[+] Auto Capture Point
+
+[+] Auto Repair
+
 [+] Auto Rebirth
 
 [+] Location Teleports
