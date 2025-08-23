@@ -5,7 +5,7 @@
 ██░▄██░██▄░▄██░██▄▀██░██▀░░██▀██░██░░██░██░░██░░░██▄██░░░▄██▀░
 ████▀░░░▀███▀░░░▀███▀░████░██░██░▀████▀░█████▀░░░░███░░░██████
 
-DogeHub v2.1.6.3b
+DogeHub v2.1.6.4
 
 UI:
 NoobieDoge
@@ -28,7 +28,7 @@ NoobieDoge
 
 [ What's new? ]
 
-  [+] Added a function to teleport back to spawn after scroll snipe
+  [+] Fixed Shindo dumb ahh mouse offset (activated on default)
   
 ]]--
 
