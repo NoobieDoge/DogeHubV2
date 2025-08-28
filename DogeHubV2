@@ -5,7 +5,7 @@
 ██░▄██░██▄░▄██░██▄▀██░██▀░░██▀██░██░░██░██░░██░░░██▄██░░░▄██▀░
 ████▀░░░▀███▀░░░▀███▀░████░██░██░▀████▀░█████▀░░░░███░░░██████
 
-DogeHub v2.1.6.4
+DogeHub v2.1.6.5
 
 UI:
 NoobieDoge
@@ -25,10 +25,12 @@ NoobieDoge
   [+] Stand Upright: Rebooted
   [+] Control Army
   [+] War Tycoon
+  [+] Build a Plane
 
 [ What's new? ]
 
   [+] Fixed Shindo dumb ahh mouse offset (activated on default)
+  [+] Added Build a Plane script
   
 ]]--
 
