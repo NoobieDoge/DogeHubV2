@@ -113,3 +113,12 @@ NoobieDoge
 [+] Auto Rebirth
 
 [+] Location Teleports
+
+#### Build a Plane
+[+] Adjust Plane Height
+
+[+] Auto Buy Blocks
+
+[+] Auto Buy Tools
+
+[+] Auto Farm Cash
