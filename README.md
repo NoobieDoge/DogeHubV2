@@ -122,3 +122,5 @@ NoobieDoge
 [+] Auto Buy Tools
 
 [+] Auto Farm Cash
+
+[+] Auto Farm Events
