@@ -124,3 +124,16 @@ NoobieDoge
 [+] Auto Farm Cash
 
 [+] Auto Farm Events
+
+#### 99 Nights in the Forest
+[+] Instant Unlock Chests
+
+[+] Bring Items & Children
+
+[+] Adjust Mobs Hitbox
+
+[+] Auto Farm Log
+
+[+] Auto Farm Mobs
+
+[+] Location Teleports
