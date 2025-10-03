@@ -48,6 +48,14 @@ Here I put all scripts for games separately
   War Tycoon:
 
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/WarTycoon', true))()```
+  
+  Build a Plane:
+
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/BuildaPlane', true))()```
+
+  99 Nights in the Forest:
+
+  ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/99NightsintheForest', true))()```
 
   Build a Plane
 
