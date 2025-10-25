@@ -126,14 +126,26 @@ NoobieDoge
 [+] Auto Farm Events
 
 #### 99 Nights in the Forest
-[+] Instant Unlock Chests
+[+] God Mode
+
+[+] Auto Unlock Chests
+
+[+] Auto Collect Coin Stacks
 
 [+] Bring Items & Children
 
+[+] Auto Burn Fuel
+
+[+] Auto Scrap Item
+
+[+] Auto Cook Food
+
+[+] Auto Eat Food
+
+[+] Mob Kill Aura
+
 [+] Adjust Mobs Hitbox
 
-[+] Auto Farm Log
-
-[+] Auto Farm Mobs
+[+] Log Aura
 
 [+] Location Teleports
