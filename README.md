@@ -149,3 +149,20 @@ NoobieDoge
 [+] Log Aura
 
 [+] Location Teleports
+
+#### Mini War (Most functions are not implemented yet!)
+[+] Auto Buy
+
+[+] Auto Collect
+
+[+] Auto Sell
+
+[+] Auto Collect War Pass Points
+
+[+] Auto Research
+
+[+] Auto Capture
+
+[+] Events
+
+[+] Location Teleports
