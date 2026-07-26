@@ -56,3 +56,7 @@ Here I put all scripts for games separately
   99 Nights in the Forest:
 
   ```loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/Separated/99NightsintheForest', true))()```
+
+  Mini War:
+  
+  ```loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobieDoge/DogeHubV2/refs/heads/Separated/MiniWar"))()```
