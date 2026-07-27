@@ -161,6 +161,8 @@ NoobieDoge
 
 [+] Auto Research
 
+[+] Auto Claim Daily Rewards
+
 [+] Auto Capture
 
 [+] Events
