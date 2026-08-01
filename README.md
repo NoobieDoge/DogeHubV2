@@ -159,6 +159,8 @@ NoobieDoge
 
 [+] Auto Collect War Pass Points
 
+[+] Auto Spin Generals
+
 [+] Auto Research
 
 [+] Auto Capture
