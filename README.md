@@ -150,7 +150,7 @@ NoobieDoge
 
 [+] Location Teleports
 
-#### Mini War (Most functions are not implemented yet!)
+#### Mini War
 [+] Auto Buy
 
 [+] Auto Collect
