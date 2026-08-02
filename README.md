@@ -151,6 +151,11 @@ NoobieDoge
 [+] Location Teleports
 
 #### Mini War
+[+] Auto Buy
+
+[+] Auto Collect
+
+[+] Auto Sell
 
 [+] Auto Collect War Pass Points
 
