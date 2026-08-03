@@ -157,6 +157,8 @@ NoobieDoge
 
 [+] Auto Sell
 
+[+] Auto Collect Quests and Daily Rewards
+
 [+] Auto Collect War Pass Points
 
 [+] Auto Spin Generals
